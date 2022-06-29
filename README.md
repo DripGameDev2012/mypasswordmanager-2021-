@@ -1,2 +1,2 @@
 # mypasswordmanager-2021-
-This program needs help with. I know it's private, just saying.
+just made for fun, too many errors cause me to stop working on it
